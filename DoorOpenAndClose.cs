@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DoorOpen : MonoBehaviour
+public class DoorOpenAndClose : MonoBehaviour
 {
     [SerializeField] GameObject player;
     [SerializeField] float rotateSpeed = 50;
